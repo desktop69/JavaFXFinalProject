@@ -10,9 +10,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.sql.Statement;
-import java.util.List;
 import java.util.ResourceBundle;
-
 import application.Service.EntrepriseService;
 import application.connection.connexion;
 import application.entites.Employer;
